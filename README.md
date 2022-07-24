@@ -6,7 +6,7 @@ Tentando ser uma Desenvolvedora Front-End ✔️
 
 Estou no 5º semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
 FATEC-GUARATINGUETÁ. <br>
-Aprimorando meus conhecimentos de forma contínua. <br>
+Aprimorando meus estudos de forma contínua. <br>
 Sempre me desenvolvendo de forma pessoal. <br>
 
 
