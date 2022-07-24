@@ -5,12 +5,13 @@ Tentando ser uma Desenvolvedora Front-End ✔️
 -----------------------------
 
 Estou no 5º semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
+FATEC-GUARATINGUETÁ. <br>
 Aprimorando meus conhecimentos de forma contínua. <br>
 Sempre me desenvolvendo de forma pessoal. <br>
 
 
 *   🌍 Atualmente morando em São Paulo-Brasil.
-*   ✉️ Você pode entrar em contato comigo em :[shayanefatec@gmail.com](mailto:shayanefatec@gmail.com)[](mailto:shayanefatec@gmail.com).
+*   ✉️ Você pode entrar em contato comigo pelo meu email: [shayanefatec@gmail.com](mailto:shayanefatec@gmail.com)[](mailto:shayanefatec@gmail.com).
 *   🧠 Estou aprendendo HTML5 CSS3 JavaScript.
 *   🤝 Estou aberta a colaborar qualquer projeto, pois nenhum conhecimento é em vão.
 *   ⚡ Eu sou secretamente a XS(Flash), mas não conte a ninguém .
@@ -33,9 +34,12 @@ Sempre me desenvolvendo de forma pessoal. <br>
 
 
 ### Distintivos
+<b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/shayane1"><img src="https://github-readme-stats.vercel.app/api?username=shayane1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shayane1's GitHub stats"
-/></a>
+<a href="http://www.github.com/shayane1"><img src="https://github-readme-stats.vercel.app/api?username=shayane1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="estatísticas do GitHub de shayane1" /></a>
 
-<a href="http://www.github.com/shayane1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shayane1&stroke=ffffff&background=1c1917&ring=0891b2&fire= 0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-/></a>
+<a href="http://www.github.com/shayane1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shayane1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+<p Feito com ❤️ por ShayaneAntonio/p>
