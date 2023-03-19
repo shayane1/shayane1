@@ -4,7 +4,7 @@ Oi meu nome é Shayane Antonio ![](https://user-images.githubusercontent.com/183
 Tentando ser uma Desenvolvedora Front-End ✔️
 -----------------------------
 
-Estou no 5º semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
+Estou no 6º semestre da faculdade de Análise e Desenvolvimento de Sistemas. <br>
 FATEC-GUARATINGUETÁ. <br>
 Aprimorando meus estudos de forma contínua. <br>
 Sempre me desenvolvendo de forma pessoal. <br>
